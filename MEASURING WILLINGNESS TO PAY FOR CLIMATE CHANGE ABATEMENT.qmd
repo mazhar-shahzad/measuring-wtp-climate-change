@@ -1,9 +1,7 @@
 ---
 title: "MEASURING WILLINGNESS TO PAY FOR CLIMATE CHANGE ABATEMENT"
 author:
-  - name: Soha Tehreem
   - name: Mazhar Shahzad
-  - name: Muhammad Sohail
 date: "2023-07-19"
 theme:
   light: flatly
